@@ -1,5 +1,6 @@
 # DontDumpMiky
-Help Mike to get away from Celia!!!!
+## Help Mike to get away from Celia!!!!
+
 ![This is an image](https://github.com/Max850709/DontDumpMiky/blob/main/pic1.gif?raw=true)
 
 # Background
